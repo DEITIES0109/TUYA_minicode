@@ -2,4 +2,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 # TUYA_minicode
 
-![common_pannel](./screenshoot.png)
+![common_pannel](./screenshoot.jpg)
